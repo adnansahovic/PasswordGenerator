@@ -1,2 +1,2 @@
-Password Generator- HTML, CSS, JAVASCRIPT.
+#Password Generator- HTML, CSS, JAVASCRIPT.
 Beginner project
